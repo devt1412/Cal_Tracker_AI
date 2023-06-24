@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CalTrackerAI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/fresh_green</item>
+        <item name="colorPrimaryVariant">@color/light_vibrant_green</item>
+        <item name="colorOnPrimary">@color/light_cream</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/soft_brown</item>
+        <item name="colorSecondaryVariant">@color/brown</item>
+        <item name="colorOnSecondary">@color/deep_brown</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:backgroundTint">?attr/colorOnPrimary</item>
+        <item name="android:textColor">?attr/colorOnSecondary</item>
+    </style>
+    <style name="buttonstyle">
+        <item name="android:backgroundTint">@color/light_vibrant_green</item>
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+</resources>

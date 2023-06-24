@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!-- Day -->
+    <!--primary-->
+    <color name="fresh_green">#66BB6A</color>
+    <!--secondary-->
+    <color name="soft_brown">#8D6E63</color>
+    <!--background -->
+    <color name="light_cream">#FFF8E1</color>
+    <color name="dark_gray">#333333</color>
+    <color name="soft_white">#FDFDFD</color>
+    <color name="deep_brown">#4F4A48</color>
+    <!--button bg-->
+    <color name="light_vibrant_green">#66BB6A</color>
+    <color name="rich_red">#EF5350</color>
+    <!--icon col-->
+    <color name="brown">#5F4A48</color>
+    <!--divider-->
+    <color name="gray">#CCCCCC</color>
+<!-- Night -->
+    <!--background
+    dark_gray
+    -->
+    <color name="deep_purple">#673AB7</color>
+    <color name="deep_purple_darker">#512DA8</color>
+    <color name="darker_gray">#616161</color>
+    <!--text
+    gray
+    -->
+    <!--button-->
+    <color name="vibrant_yellow">#FFEB3B</color>
+    <color name="bright_orange">#FF5722</color>
+
+</resources>
