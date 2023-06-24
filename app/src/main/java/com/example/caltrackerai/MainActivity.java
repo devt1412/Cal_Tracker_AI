@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         sendButton = findViewById(R.id.calbt);
 
-        chatGPTClient = new ChatGPTClient("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");
+        chatGPTClient = new ChatGPTClient("api-key");
 
         sendButton.setOnClickListener(new View.OnClickListener() {
             @Override
